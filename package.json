@@ -1,0 +1,35 @@
+{
+  "name": "vue-data-export",
+  "version": "0.2.1",
+  "description": "Download your JSON data as an excel or csv file directly from the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalideastudio/vue-data-export"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "vue2",
+    "Excel",
+    "xml",
+    "csv",
+    "json",
+    "export",
+    "json excel",
+    "download",
+    "component"
+  ],
+  "author": "Jose Javier Espinoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalideastudio/vue-data-export/issues"
+  },
+  "homepage": "https://github.com/digitalideastudio/vue-data-export#readme",
+  "dependencies": {
+    "downloadjs": "^1.4.7"
+  }
+}
